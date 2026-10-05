@@ -1,2 +1,3 @@
 # ManiaScript
-All my ManiaScripts
+
+Old repository of various ManiaScripts for ManiaPlanet.
